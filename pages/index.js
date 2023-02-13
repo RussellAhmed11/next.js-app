@@ -11,12 +11,7 @@ export default function Home() {
       <h1>hello world</h1>
       <Link href="/blogs/blog1">blog1</Link>
       <Image src="/nature.jpg" width={400} height={400}></Image>
-      <button className="btn">Button</button>
-      <button className="btn btn-primary">Button</button>
-      <button className="btn btn-secondary">Button</button>
-      <button className="btn btn-accent">Button</button>
-      <button className="btn btn-ghost">Button</button>
-      <button className="btn btn-link">Button</button>
+      
     </>
   )
 }
